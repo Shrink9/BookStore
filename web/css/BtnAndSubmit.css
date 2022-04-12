@@ -1,0 +1,29 @@
+input[type=button], input[type=submit]{
+    box-sizing:border-box;
+    margin:0;
+    font:inherit;
+    overflow:visible;
+    text-transform:none;
+    font-family:inherit;
+    display:inline-block;
+    margin-bottom:0;
+    text-align:center;
+    white-space:nowrap;
+    vertical-align:middle;
+    touch-action:manipulation;
+    cursor:pointer;
+    user-select:none;
+    border:1px solid transparent;
+    padding:5px 10px;
+    font-size:12px;
+    border-radius:3px;
+    background-image:none;
+    letter-spacing:1px;
+    transition:all 150ms linear;
+    line-height:18px;
+    font-weight:bold;
+    height:30px;
+    background-color:rgb(53, 100, 141);
+    position:relative;
+    margin-left:0;
+}
